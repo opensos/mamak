@@ -1,0 +1,2 @@
+# mamak
+mamak.cc weblog
